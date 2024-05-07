@@ -23,7 +23,7 @@ MonoConf.nvim is a minimalist Neovim configuration designed to get you up and ru
    
    Linux and Mac:
    ```bash
-   git clone https://github.com/SqLait/MonoConf.git ~/.config/nvim
+   git clone https://github.com/SqLait/MonoConf.nvim.git ~/.config/nvim
    ```
    Windows:
    ```bash
