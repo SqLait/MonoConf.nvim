@@ -17,6 +17,7 @@ Make sure you have Neovim installed on your system. If not, you can install it f
 ### Installation
 
 1. Clone MonoConf.nvim repository to your Neovim configuration directory (usually `~/.config/nvim`):
+   
    Linux and Mac:
    ```bash
    git clone https://github.com/SqLait/MonoConf.nvim.git ~/.config/nvim
