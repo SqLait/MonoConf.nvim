@@ -1,18 +1,21 @@
 # MonoConf.nvim
 
-MonoConf.nvim is a minimalist Neovim configuration designed to get you up and running quickly with essential plugins using [Lazy.nvim](https://github.com/folke/lazy.nvim) and a simple file structure. With MonoConf.nvim, you don't have to worry about setting up directories or managing plugins manually. It provides a basic foundation for your Neovim setup so you can focus on coding right away.
+MonoConf.nvim is a minimalist Neovim configuration designed to get you up and running quickly with essential plugins using [Lazy.nvim](https://github.com/folke/lazy.nvim) and a simple file structure. With MonoConf.nvim, you don't have to worry about setting up directories or managing plugins manually. It provides a basic foundation for your Neovim setup so you can focus on coding and adding plugins you would use.
 
 ## Features
 
-- **Lazy Vim Integration**: BareBones.nvim utilizes Lazy Vim, a plugin manager for Neovim, to handle plugin installation and management seamlessly.
+- **Lazy Vim Integration**: MonoConf.nvim utilizes Lazy Vim, a plugin manager for Neovim, to handle plugin installation and management seamlessly.
 - **Simple File Structure**: The configuration comes with a straightforward file structure, making it easy to navigate and customize according to your preferences.
-- **Extremely bare bones**: No bullsh*t, just a package manager and a file structure, your config your rules!.
+- **Extremely bare bones**: No bullsh*t, just a package manager and a file structure, your config your rules!
 
 ## Getting Started
 
 ### Prerequisites
 
-Make sure you have Neovim installed on your system. If not, you can install it from the official [Neovim website](https://neovim.io/).
+- Neovim >= 0.9.0 (needs to be built with LuaJIT)
+- Git >= 2.19.0 (for partial clones support)
+- a Nerd Font (optional, but needed to display some icons)
+- a C compiler for nvim-treesitter and luasnip (preferably Gcc or MinGW)
 
 ### Installation
 
@@ -63,4 +66,4 @@ If you have any suggestions, improvements, or feature requests, feel free to ope
 
 ## License
 
-BareBones.nvim is licensed under the [Apache 2.0 license](LICENSE).
+MonoConf.nvim is licensed under the [Apache 2.0 license](LICENSE).
