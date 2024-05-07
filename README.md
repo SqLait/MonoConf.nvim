@@ -38,6 +38,10 @@ MonoConf.nvim is a minimalist Neovim configuration designed to get you up and ru
 
 4. Enjoy coding with MonoConf.nvim!
 
+## Installation option 2
+
+You can Fork this repository and clone your fork for being able to version your configuration.
+
 ## File Structure
 
 Here's a brief overview of the file structure of MonoConf.nvim:
