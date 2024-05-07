@@ -1,7 +1,5 @@
 # MonoConf.nvim
 
-![Logo](img/MonoConf.png)
-
 MonoConf.nvim is a minimalist Neovim configuration designed to get you up and running quickly with essential plugins using [Lazy.nvim](https://github.com/folke/lazy.nvim) and a simple file structure. With MonoConf.nvim, you don't have to worry about setting up directories or managing plugins manually. It provides a basic foundation for your Neovim setup so you can focus on coding and adding plugins you would use. (Yes this logo was made in paint, I challange you to make a better logo)
 
 ## Features
@@ -25,7 +23,7 @@ MonoConf.nvim is a minimalist Neovim configuration designed to get you up and ru
    
    Linux and Mac:
    ```bash
-   git clone https://github.com/SqLait/MonoConf.nvim.git ~/.config/nvim
+   git clone https://github.com/SqLait/MonoConf.git ~/.config/nvim
    ```
    Windows:
    ```bash
