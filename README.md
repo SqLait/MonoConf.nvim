@@ -16,19 +16,23 @@ Make sure you have Neovim installed on your system. If not, you can install it f
 
 ### Installation
 
-1. Clone BareBones.nvim repository to your Neovim configuration directory (usually `~/.config/nvim`):
-
+1. Clone MonoConf.nvim repository to your Neovim configuration directory (usually `~/.config/nvim`):
+   Linux and Mac:
    ```bash
    git clone https://github.com/SqLait/MonoConf.nvim.git ~/.config/nvim
    ```
+   Windows:
+   ```bash
+   git clone https://github.com/Sqlait/MonoConf.nvim $env:LOCALAPPDATA\nvim
+   ```
 
-2. Launch Neovim:
+3. Launch Neovim:
 
    ```bash
    nvim
    ```
 
-3. Enjoy coding with MonoConf.nvim!
+4. Enjoy coding with MonoConf.nvim!
 
 ## File Structure
 
