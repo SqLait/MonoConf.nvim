@@ -13,13 +13,4 @@ vim.opt.rtp:prepend(lazypath)
 
 --[[When creating a new folder make sure to reference it by using
 {import="name/of/new/folder"},]]
-require("lazy").setup({{import = "mono.plugins"}},
-  {
-  checker = {
-    enabled = true,
-    notify = false,
-  },
-  change_detection = {
-    notify = false,
-  },
-})
+require("lazy").setup({{import = "mono.plugins"}})
