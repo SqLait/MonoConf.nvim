@@ -4,11 +4,9 @@ MonoConf.nvim is a minimalist Neovim configuration designed to get you up and ru
 
 ## Features
 
-- **Lazy Vim Integration**: MonoConf.nvim utilizes Lazy Vim, a plugin manager for Neovim, to handle plugin installation and management seamlessly.
+- **Lazy Integration**: MonoConf.nvim utilizes the lazy package manager for Neovim, to handle plugin installation and management seamlessly.
 - **Simple File Structure**: The configuration comes with a straightforward file structure, making it easy to navigate and customize according to your preferences.
 - **Extremely bare bones**: No bullsh*t, just a package manager and a file structure, your config your rules!
-
-## Getting Started
 
 ### Prerequisites
 
